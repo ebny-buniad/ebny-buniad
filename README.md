@@ -1,4 +1,4 @@
-![My Awesome App Banner](https://github.com/your-username/your-repo/blob/main/assets/banner.png?raw=true)
+![My Awesome App Banner](https://ibb.co/XrxLYkcD)
 # 💫 About Me:
 Here's a blurb about you, Ebny Buniad:<br><br>Ebny Buniad is a skilled **Frontend Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). With a strong command of modern web technologies, Ebny excels at crafting intuitive and dynamic user interfaces. Their expertise lies in building responsive and high-performance web applications, seamlessly integrating frontend components with backend functionalities. Ebny is passionate about creating engaging digital experiences and continuously hones their skills to deliver cutting-edge solutions.
 
