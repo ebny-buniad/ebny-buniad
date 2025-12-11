@@ -1,4 +1,4 @@
-![My Banner](https://i.ibb.co/5xMzz9RN/Untitldsded-2-01.png)
+![My Banner](https://i.ibb.co.com/rGXzms3w/ebny-buniad-banner.jpg)
 # 💫 About Me:
 Here's a blurb about you, Ebny Buniad:<br><br>Ebny Buniad is a skilled **Frontend Developer** specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). With a strong command of modern web technologies, Ebny excels at crafting intuitive and dynamic user interfaces. Their expertise lies in building responsive and high-performance web applications, seamlessly integrating frontend components with backend functionalities. Ebny is passionate about creating engaging digital experiences and continuously hones their skills to deliver cutting-edge solutions.
 
@@ -14,3 +14,4 @@ Here's a blurb about you, Ebny Buniad:<br><br>Ebny Buniad is a skilled **Fronten
 [![](https://visitcount.itsvg.in/api?id=ebny-buniad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
